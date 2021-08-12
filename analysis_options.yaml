@@ -8,6 +8,7 @@ linter:
     sort_constructors_first: true
     parameter_assignments: true
     sort_pub_dependencies: false
+    avoid_catching_errors: false
 
 
 analyzer:
